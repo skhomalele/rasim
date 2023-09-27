@@ -4,3 +4,4 @@
 ```
 чтобы просто продемонстрировать работу с firebase
 ```
+https://commet-for-rasim.web.app/
